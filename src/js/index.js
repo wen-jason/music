@@ -124,4 +124,4 @@ function rotate(deg) {
         $('.img_box').data('deg', deg)
     }, 100)
 }
-getData('../../dist/mock/data.json');
+getData('../mock/data.json');
